@@ -1,0 +1,4 @@
+Android NDK: WARNING:/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/libtgvoip/Android.mk:flac: LOCAL_LDLIBS is always ignored for static libraries    
+Android NDK: WARNING: Unsupported source file extensions in /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/libtgvoip/Android.mk for module flac    
+Android NDK:   ./exoplayer/libFLAC/windows_unicode_filenames    
+make: `/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtmessages.30.so' is up to date.

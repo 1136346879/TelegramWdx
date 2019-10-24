@@ -1,0 +1,65 @@
+{
+  "buildFiles": [
+    "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk",
+    "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "lz4-debug-arm64-v8a": {
+      "artifactName": "lz4",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/liblz4.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/liblz4.a"
+    },
+    "webp-debug-arm64-v8a": {
+      "artifactName": "webp",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libwebp.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libwebp.a"
+    },
+    "tgnet-debug-arm64-v8a": {
+      "artifactName": "tgnet",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtgnet.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtgnet.a"
+    },
+    "crypto_arm64-v8a-debug-arm64-v8a": {
+      "artifactName": "crypto_arm64-v8a",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libcrypto_arm64-v8a.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libcrypto_arm64-v8a.a"
+    },
+    "sqlite-debug-arm64-v8a": {
+      "artifactName": "sqlite",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libsqlite.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libsqlite.a"
+    },
+    "flac-debug-arm64-v8a": {
+      "artifactName": "flac",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libflac.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libflac.a"
+    },
+    "cpufeatures-debug-arm64-v8a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libcpufeatures.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libcpufeatures.a"
+    },
+    "rlottie-debug-arm64-v8a": {
+      "artifactName": "rlottie",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/librlottie.a",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/librlottie.a"
+    },
+    "tmessages.30-debug-arm64-v8a": {
+      "artifactName": "tmessages.30",
+      "buildCommand": "/Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Android.mk NDK_APPLICATION_MK\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-16 -j8 /Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtmessages.30.so",
+      "abi": "arm64-v8a",
+      "output": "/Volumes/wdx/gitdemo/telegramwdx/TMessagesProj/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libtmessages.30.so"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Executable : /Users/zhangyan/Library/Android/sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/Volumes/wdx/demoonline/AndroidUtilCodeKTX-master/TMessagesProj/jni/Android.mk
+NDK_APPLICATION_MK=/Volumes/wdx/demoonline/AndroidUtilCodeKTX-master/TMessagesProj/jni/Application.mk
+APP_ABI=arm64-v8a
+NDK_ALL_ABIS=arm64-v8a
+NDK_DEBUG=0
+APP_PLATFORM=android-21
+NDK_OUT=/Volumes/wdx/demoonline/AndroidUtilCodeKTX-master/TMessagesProj/build/intermediates/ndkBuild/arm64/release/obj
+NDK_LIBS_OUT=/Volumes/wdx/demoonline/AndroidUtilCodeKTX-master/TMessagesProj/build/intermediates/ndkBuild/arm64/release/lib
+NDK_APPLICATION_MK:=jni/Application.mk
+APP_PLATFORM:=android-16
+-j8
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+

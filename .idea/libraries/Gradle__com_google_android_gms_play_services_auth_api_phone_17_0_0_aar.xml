@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3986573d7ac02fb4b930aebd291ec302/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3986573d7ac02fb4b930aebd291ec302/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
